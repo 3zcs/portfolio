@@ -19,7 +19,8 @@
           padding-top: 0;
       }
   }
-  .center-img {
+  .center-img,
+  p {
       display: block;
       margin: 0 auto;
   }
